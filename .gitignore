@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Model weights and temp files
+*.pt
+temp_uploads/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
